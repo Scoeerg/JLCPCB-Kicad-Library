@@ -386,7 +386,7 @@
 		(roundrect_rratio 0.25)
 		(uuid "3f662420-5ada-495c-85bb-144851493a4c")
 	)
-	(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/TSSOP-24_6.1x7.8mm_P0.65mm.step"
+	(model "${KIPRJMOD}/libs/JLCPCB-Kicad-Library/3dmodels/JLCPCB.3dshapes/TSSOP-24_6.1x7.8mm_P0.65mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

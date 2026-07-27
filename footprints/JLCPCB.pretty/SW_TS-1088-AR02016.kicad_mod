@@ -199,7 +199,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "3e21b019-6722-4070-b592-3db76fbe47c5")
 	)
-	(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/TS-1088-AR02016.step"
+	(model "${KIPRJMOD}/libs/JLCPCB-Kicad-Library/3dmodels/JLCPCB.3dshapes/TS-1088-AR02016.step"
 		(offset
 			(xyz 0 0 0)
 		)

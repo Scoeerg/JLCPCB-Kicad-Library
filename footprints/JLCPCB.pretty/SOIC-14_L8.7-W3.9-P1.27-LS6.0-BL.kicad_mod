@@ -316,7 +316,7 @@
 		(roundrect_rratio 0.25)
 		(uuid "eebf80da-2b15-411f-b504-a806dc645fcd")
 	)
-	(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOIC-14_3.9x8.7mm_P1.27mm.step"
+	(model "${KIPRJMOD}/libs/JLCPCB-Kicad-Library/3dmodels/JLCPCB.3dshapes/SOIC-14_3.9x8.7mm_P1.27mm.step"
 		(offset
 			(xyz 0 0 0)
 		)
